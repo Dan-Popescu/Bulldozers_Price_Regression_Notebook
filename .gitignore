@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints
+.idea/
+venv
+data/train_tmp.csv
+data/Test.csv
+data/TrainAndValid.csv
+data/Valid.csv
+data/ValidSolution.csv
+data/Machine_Appendix.csv
