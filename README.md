@@ -30,8 +30,7 @@ The dataset includes the following important features:
 - **AuctioneerID**: Identifier for the auctioneer managing the sale.
 - **MachineHoursCurrentMeter**: Current hour meter reading of the bulldozer.
 
-For a full list of features and descriptions, refer to the `Data Dictionary.xlsx` file from the 
-data folder.
+Refer to the Data Dictionary.xlsx file located in the data folder for a full list of features and descriptions
 
 ---
 
@@ -57,19 +56,16 @@ This project uses:
    - Loading data
 3. **Exploratory Data Analysis (EDA):**
 
-   - Analyzing feature distributions
-   - Visualizing correlations and relationship between features and the target variable
+   - Features Distributions Analysis
+   - Visualizion of correlations and relationship between features and the target variable
 
 4. **Feature Engineering:**
-
-   - Creating new features from existing columns
 
 5. **Pre-processing:**
    - Data type adjustments based on data interpretation
    - Categorical data encoding
    - Imputation of missing values or incoherent values
  
-
 6. **Modeling, evaluation and experimentation:**
 
    - Models tested:
